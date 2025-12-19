@@ -73,10 +73,18 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
   <li>Crecimiento Técnico y Especializado</li>
   <li>Innovación y Creación de Soluciones</li>
   <li>Ejecución de Proyectos de Alto Valor</li>
+</ul>
+<p>Mi meta es evolucionar como un desarrollador integral, enfocándome en la integración de diseño y desarrollo para que mi visión creativa se materialice en interfaces impecables mediante el enfoque UI/UX.</p>
+
+<hr>
+
+<h2>📲Contact | Contacto</h2>
+<ul>
+  <li>Correo: Joshuacastaneda506@gmail.com</li>
 <ul>
 
-
-
+<hr>
+<P>💥FIN DEL VIAJE, ¡VUELVE PRONTO!</P>
 
 
 
