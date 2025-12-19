@@ -1,4 +1,4 @@
-<img src="eee.gif" width="200" height="150">
+<img src="joshuapp.gif" width="800" height="750">
 
 
 <h1>Hello, I am Joshua Palomo. | Hola soy Joshua Palomo. 🦁</h1>
