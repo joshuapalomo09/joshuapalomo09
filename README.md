@@ -1,5 +1,5 @@
 ## Hola soy Joshua Palomo 🦁
 
-<strong>Analista y desarrollador de software | Aprendiz SENA – ADSO</strong>
+<P> Analista y desarrollador de software | Aprendiz SENA – ADSO </P>
 
 
