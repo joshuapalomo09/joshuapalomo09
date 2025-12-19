@@ -1,4 +1,4 @@
-<img src="ruta/a/tu-animacion.gif" width="400" height="250">
+<img src="eee.gif" width="200" height="150">
 
 
 <h1>Hola soy Joshua Palomo 🦁</h1>
