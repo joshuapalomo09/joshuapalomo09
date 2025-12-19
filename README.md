@@ -55,10 +55,10 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 
 <h2>🔥More about me | Mas acerca de mí</h2>
 <ul>
-  <li>Pasión por el futbol</li>
-  <li>Me gusta el arte y la fotografía.</li>
-  <li>Fan de los videojuegos y las peliculas</li>
-  <li>Hincha Fiel del león</li>
+  <li>⚽Pasión por el futbol</li>
+  <li>Me gusta el arte y la fotografía📸</li>
+  <li>🎮Fan de los videojuegos y las peliculas🎞️</li>
+  <li>🦁Hincha Fiel del león❤️🤍</li>
 </ul>
 
 
