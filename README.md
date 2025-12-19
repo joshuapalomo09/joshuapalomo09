@@ -81,11 +81,11 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 <h2>📲Contact | Contacto</h2>
 <ul>
   <li>Correo: Joshuacastaneda506@gmail.com</li>
-<ul>
+</ul>
 
 <hr>
 <P>💥FIN DEL VIAJE, ¡VUELVE PRONTO!</P>
-
+<img src="eee.gif" width="200" height="150">
 
 
 
