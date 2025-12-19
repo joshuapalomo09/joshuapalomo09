@@ -18,7 +18,7 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 <h2>🥇Dominio de Software y Herramientas</h2>
 <h3>✅Dominio de Software </h3>
 <ul>
-  <li>Visual Studio Code, HTML, CSS, JavaScript.</li>
+  <li>Visual Studio Code, HTML, CSS, JavaScript, Python.</li>
   <li>Adobe Illustrator,Photosho y Premiere Pro.</li>
 </ul>
 
@@ -35,4 +35,34 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
   <li>GIT, GITHUB, VS CODE, GITHUB PAGES.</li>
   <li>Fotografía y Video profesional (Nikon D3400).</li>
 </ul>
+<p align="izquierda">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+</p>
+
+<hr>
+
+<h2>📝Proyectos</h2>
+<ul>
+  <li>Bitacora</li>
+  <li>Formularios</li>
+  <li>Paginas Web Estaticas</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
