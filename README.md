@@ -16,7 +16,7 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 <hr>
 
 <h2>🥇Software and Tools Mastery | Dominio de Software y Herramientas</h2>
-<h3>✅Dominio de Software </h3>
+<h3>✅Software Domain | Dominio de Software </h3>
 <ul>
   <li>Visual Studio Code, HTML, CSS, JavaScript, Python.</li>
   <li>Adobe Illustrator,Photosho y Premiere Pro.</li>
@@ -30,7 +30,7 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-<h3>✅Herramientas</h3>
+<h3>✅Tools | Herramientas</h3>
 <ul>
   <li>GIT, GITHUB, VS CODE, GITHUB PAGES.</li>
   <li>Fotografía y Video profesional (Nikon D3400).</li>
@@ -53,8 +53,7 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 
 <hr>
 
-<h2>🔥About me | Acerca de mí</h2>
-<h2>📝Proyectos</h2>
+<h2>🔥More about me | Mas acerca de mí</h2>
 <ul>
   <li>📃Bitacora</li>
   <li>📋Formulario</li>
