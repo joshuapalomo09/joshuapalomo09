@@ -1,7 +1,7 @@
 <img src="eee.gif" width="200" height="150">
 
 
-<h1>Hola soy Joshua Palomo 🦁</h1>
+<h1>Hello, I am Joshua Palomo. | Hola soy Joshua Palomo. 🦁</h1>
 <P> 🎞️ Tecnologo Diseñador Grafico | Universidad ECCI - 2024 </P>
 <P>🧑‍💻 Analista y desarrollador de software | Aprendiz SENA | ADSO - 2025 </P>
 <P>📍 Bogotá, Colombia</P>
@@ -15,7 +15,7 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 
 <hr>
 
-<h2>🥇Dominio de Software y Herramientas</h2>
+<h2>🥇Software and Tools Mastery | Dominio de Software y Herramientas</h2>
 <h3>✅Dominio de Software </h3>
 <ul>
   <li>Visual Studio Code, HTML, CSS, JavaScript, Python.</li>
@@ -44,15 +44,22 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 
 <hr>
 
-<h2>📝Proyectos</h2>
+<h2>📝Projects | Proyectos</h2>
 <ul>
-  <li>Bitacora</li>
-  <li>Formularios</li>
-  <li>Paginas Web Estaticas</li>
+  <li>📃Bitacora</li>
+  <li>📋Formulario</li>
+  <li>🌐Paginas Web Estaticas</li>
 </ul>
 
+<hr>
 
-
+<h2>🔥About me | Acerca de mí</h2>
+<h2>📝Proyectos</h2>
+<ul>
+  <li>📃Bitacora</li>
+  <li>📋Formulario</li>
+  <li>🌐Paginas Web Estaticas</li>
+</ul>
 
 
 
