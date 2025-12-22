@@ -85,7 +85,7 @@ continuo y la experimentación tecnológica para materializar ideas disruptivas.
 
 <hr>
 <P>💥FIN DEL VIAJE, ¡VUELVE PRONTO!</P>
-<img src="Capi.gif" width="300" height="250">
+<img src="Capitan.gif" width="300" height="500">
 
 
 
